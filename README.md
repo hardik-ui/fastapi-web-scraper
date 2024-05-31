@@ -126,3 +126,8 @@ This is the main file that contains the FastAPI application, database models, an
 - **Ensure Redis is running** before starting the application.
 - **Error Handling:** The application includes basic error handling and retries for network requests.
 - **Production:** For a production environment, consider deploying the application using a production-grade ASGI server like `uvicorn` or `daphne`.
+
+# DEMO VIDEOS
+
+<video controls src="atlys_scraper_demo.mp4" title="Demo for normal running application scrapping the first 5 / 10 pages"></video>
+<video controls src="atlys_scraper_demo_caching.mp4" title="Demo showing the caching of products based on prices using Redis"></video>

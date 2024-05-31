@@ -131,3 +131,7 @@ This is the main file that contains the FastAPI application, database models, an
 
 <video controls src="atlys_scraper_demo.mp4" title="Demo for normal running application scrapping the first 5 / 10 pages"> Look for file name atlys_scraper_demo</video>
 <video controls src="atlys_scraper_demo_caching.mp4" title="Demo showing the caching of products based on prices using Redis"> Look for file name atlys_scraper_demo_caching</video>
+
+For demo videos look for the file in the main branch with names:
+1. atlys_scraper_demo (Demo for normal running application scrapping the first 5 / 10 pages)
+2. atlys_scraper_demo_caching (Demo showing the caching of products based on prices using Redis)
